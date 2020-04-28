@@ -8,6 +8,7 @@ class HomePage extends React.Component {
         this.state = { activeTab: 3 }
     }
     render() {
+        console.log('test')
         return (
             <div style={{height: '800px', position: 'relative'}}>
             <Layout fixedHeader>
