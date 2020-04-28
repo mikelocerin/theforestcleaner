@@ -1,9 +1,5 @@
 [
     {
-        "id":123,
-        "properties":{
-            "name":"Mierda 1"
-        },
         "type": "Feature",
         "geometry": {
                     "type": "Point",
